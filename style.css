@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    display: flex;
+    background-color: aqua
+}
+.my{
+    background-color: darkorange
+}
