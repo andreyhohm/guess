@@ -9,8 +9,16 @@ body{
     justify-content: center;
     min-height: 100vh;
     display: flex;
-    background-color: aqua
+    background-color: red;
 }
 .my{
-    background-color: darkorange
+    background-color: darkorange;
+    border-radius:15%;
+    align-items: 100px;
+    justify-content: 100px;
+     color:yellow;
+     size: 100px;
+}
+.input{
+    word-spacing:100px;
 }
