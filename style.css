@@ -16,9 +16,27 @@ body{
     border-radius:15%;
     align-items: 100px;
     justify-content: 100px;
-     color:yellow;
-     size: 100px;
+    color:yellow;
+    size: 120px;
+    height: 120px;
+    width: 1200px;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    justify-content: space-between;
+
 }
-.input{
+.in{
     word-spacing:100px;
+    color: aqua;
+    background-color: darkorange;
+    border-radius:25%;
+}
+input{
+    border-radius:25%;
+}
+.da{
+    flex-direction: row;
+    justify-content: space-between;
+    word-spacing: 20px
 }
